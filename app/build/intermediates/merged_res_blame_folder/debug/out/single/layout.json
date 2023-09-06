@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.yozabel.newsapp-mergeDebugResources-22:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.yozabel.newsapp-main-25:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.yozabel.newsapp-mergeDebugResources-22:\\layout\\fragement_news.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.yozabel.newsapp-main-25:\\layout\\fragement_news.xml"
+    },
+    {
+        "merged": "com.yozabel.newsapp-mergeDebugResources-22:/layout/activity_detail_news.xml",
+        "source": "com.yozabel.newsapp-main-25:/layout/activity_detail_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.yozabel.newsapp-mergeDebugResources-22:\\layout\\activity_detail_news.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.yozabel.newsapp-main-25:\\layout\\activity_detail_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.yozabel.newsapp-mergeDebugResources-22:\\layout\\list_item_news.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.yozabel.newsapp-main-25:\\layout\\list_item_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.yozabel.newsapp-mergeDebugResources-22:\\layout\\fragment_search.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.yozabel.newsapp-main-25:\\layout\\fragment_search.xml"
+    }
+]

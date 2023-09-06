@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">News App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_1_jam_yang_lalu">1 jam yang lalu</string>
+    <string name="azhar_rivaldi_cnn_indonesia">Azhar Rivaldi - CNN Indonesia</string>
+    <string name="makin_panas_hotma_sitompul_ungkap_desiree_ke_bali_dengan_pria_lain_insertlive">Makin Panas, Hotma Sitompul Ungkap Desiree ke Bali dengan Pria Lain - InsertLive</string>
+    <string name="april_18_2021">April 18, 2021</string>
+    <string name="yozabel_hamuda_cnn_indonesia" />
+</resources>

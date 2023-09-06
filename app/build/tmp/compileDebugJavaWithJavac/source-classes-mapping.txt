@@ -1,0 +1,2 @@
+com/yozabel/newsapp/BuildConfig.java
+ com.yozabel.newsapp.BuildConfig
